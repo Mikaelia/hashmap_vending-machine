@@ -10,7 +10,8 @@ Project  was developed and tested with `Ubuntu 14.04 LTS`
 
 
 ## Features
-	|   **Command**   |   **Description**   |
+
+|   **Command**  |   **Description**   |
 | -------------- | --------------------- |
 | `add <item> [data]` | Adds an item to the machine |
 | `buy <item>` | Purchase item from machine. Item count will reflect change |
