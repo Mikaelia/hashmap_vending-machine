@@ -12,16 +12,15 @@ Project  was developed and tested with `Ubuntu 14.04 LTS`
 ## Features
 	|   **Command**   |   **Description**   |
 | -------------- | --------------------- |
-
-`add <item> [data]` | Adds an item to the machine
-`buy <item>` | Purchase item from machine. Item count will reflect change
-`check <item>` | Checks price and quantity of an item
-`price <item>` | Changes the price of an item
-`schema` | Prints the hash table schems
-`inventory` | Prints the vending machine inventory
-`money` | Prints total value of vending machine items
-`restock` | Restocks the vending machine
-`quit` | Exits the program
+|`add <item> [data]` | Adds an item to the machine
+|`buy <item>` | Purchase item from machine. Item count will reflect change
+|`check <item>` | Checks price and quantity of an item
+|`price <item>` | Changes the price of an item
+|`schema` | Prints the hash table schems
+|`inventory` | Prints the vending machine inventory
+|`money` | Prints total value of vending machine items
+|`restock` | Restocks the vending machine
+|`quit` | Exits the program
 
 
 #### Example
