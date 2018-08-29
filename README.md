@@ -13,7 +13,7 @@ Project  was developed and tested with `Ubuntu 14.04 LTS`
 
 |   **Command**  |   **Description**   |
 | -------------- | --------------------- |
-| `add <item> [data]` | Adds an item to the machine |
+| `add <item>` | Adds an item to the machine |
 | `buy <item>` | Purchase item from machine. Item count will reflect change |
 | `check <item>` | Checks price and quantity of an item |
 | `price <item>` | Changes the price of an item |
