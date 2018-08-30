@@ -44,7 +44,6 @@ There are 10 Chocolates left. Chocolates cost $2.00
 There are 10 Crackers left. Crackers cost $1.69
 There are 10 Carrots left. Carrots cost $2.00
 *Beep* buy yogurt
-Yogurt
 You bought a Yogurt for $2.20
 *Beep* check yogurt
 Yogurts cost $2.20. There are 9 left
